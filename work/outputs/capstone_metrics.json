@@ -1,0 +1,10 @@
+{
+    "baseline_roc_auc": 0.36575915611301535,
+    "group_kfold_rf_roc_auc": 0.638411291501647,
+    "total_records_evaluated": 30000,
+    "action_distribution": {
+        "MONITOR_ONLY": 27571,
+        "OPT_TITLE_META": 1726,
+        "CONTENT_PRUNE": 703
+    }
+}
